@@ -1,0 +1,3 @@
+[submodule "depth_upscaling/depthor_repo"]
+	path = depth_upscaling/depthor_repo
+	url = https://github.com/ShadowBbBb/Depthor.git

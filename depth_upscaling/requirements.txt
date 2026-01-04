@@ -1,0 +1,11 @@
+torch>=2.0.0
+torchvision>=0.15.0
+numpy
+scipy
+matplotlib
+webdataset
+open3d
+timm
+einops
+Pillow
+
